@@ -17,4 +17,5 @@
 >We can only see a short distance ahead, but we can see plenty there that needs to be done. (Alan Turing)
 ## Thing Used to do
 !😊[Design Prototype](https://www.figma.com/file/iaHt3KGmmZNJqPH3u7ETZq/Full-Home-Page?node-id=0%3A1)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=channamak&show_icons=true&theme=radical)
 -->
